@@ -2,7 +2,7 @@
 
 ## Description:
 
-***This application is a simplified version of the cinema. It supports user registration,
+***This application is a simplified version of the cinema booking system. It supports user registration,
 authentication, authorization and CRUD operations over HTTP request***
 
 ## Features:
